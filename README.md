@@ -1,3 +1,10 @@
 # IMPLEMENTATION-OF-TOUCHLESS-HAND-GESTURE-RECOGNITION-ATM-BASED-ON-DEEP-LEARNING-APPROACH-
 
-![Image](location of image in repo.type)
+![Image](https://github.com/Rinub/IMPLEMENTATION-OF-TOUCHLESS-HAND-GESTURE-RECOGNITION-ATM-BASED-ON-DEEP-LEARNING-APPROACH-/blob/main/Data_visuals_new.png?raw=true)
+
+
+![Image](https://github.com/Rinub/IMPLEMENTATION-OF-TOUCHLESS-HAND-GESTURE-RECOGNITION-ATM-BASED-ON-DEEP-LEARNING-APPROACH-/blob/main/Data_visuals_new.png?raw=true)
+
+
+![Image](https://github.com/Rinub/IMPLEMENTATION-OF-TOUCHLESS-HAND-GESTURE-RECOGNITION-ATM-BASED-ON-DEEP-LEARNING-APPROACH-/blob/main/Data_visuals_new.png?raw=true)
+
